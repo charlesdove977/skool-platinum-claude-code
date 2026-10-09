@@ -1,0 +1,29 @@
+# source: https://docs.google.com/document/d/1X4pEQC29VGUMYgVoYyfoF5OiQe-eFnjn7zIQCymiq0o (linked from lesson 'Task 2: About Page')
+
+﻿Skool VSL Framework
+Copy this structure for a high-converting Skool about page video
+1. Introduction
+Promise
+Tell them what you’re going to teach them. Make it interesting enough for them to buy-in and watch the full video.
+Example: "In this video, I'll walk you through how to lose 20 lbs without sacrificing the foods you love."
+Pain
+Call out their current frustrations / problems 
+Example: "If you've tried 20 different diets, hate going to pool parties, see everyone around you losing weight but you — I'll be able to help you."
+Proof
+"I know I can help you because I helped take [Person X] from [Before] to [After], [Person A] from [Before] to [After], and [Person C] from [Before] to [After]..."
+2. Body
+Explain how what's inside your community will help them achieve their outcome.
+* Weekly Q&A Calls – get personalized support, ask me anything
+* Private Community Access – be held accountable
+* 15+ training videos – day-by-day roadmap to lose 10 lbs
+3. Objections
+Address the top 3-5 concerns:
+Format: What they think → Why it's wrong → What's actually right → Proof
+4. Closing CTA
+Create Urgency/Scarcity
+* "The price is likely to go up soon"
+* Limited spots available
+* Bonus that expires
+* Early member benefits
+Direct Call to Action
+"I'll see you inside the group”
