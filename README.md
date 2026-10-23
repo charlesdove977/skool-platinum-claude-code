@@ -6,6 +6,8 @@ Built for **Claude Code** first. It also works in **claude.ai chat** (instructio
 
 Shared with the cohort with the admin's permission.
 
+**Want your Skool set up and growing?** Join [CC Strategic AI +](https://www.skool.com/cc-strategic-ai-plus/about): my 27-day Claude Code mastery program with a 1-click install setup file, and you work with us to land your first AI client in 90 days, or your money back.
+
 ---
 
 ## What's inside
@@ -123,4 +125,4 @@ skill/
 
 Code and skill structure: MIT (see `LICENSE`). Course content in `skill/source/` belongs to its owners (Skool / Skool Platinum) and is shared for Platinum October cohort members with the admin's permission.
 
-More free Claude Code tools: [charlieautomates.com](https://charlieautomates.com/free-resources/)
+More free Claude Code tools: [charlieautomates.com](https://charlieautomates.com/free-resources/) · Go deeper inside [CC Strategic AI +](https://www.skool.com/cc-strategic-ai-plus/about)
