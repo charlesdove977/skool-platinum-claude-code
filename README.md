@@ -122,3 +122,5 @@ skill/
 ## License
 
 Code and skill structure: MIT (see `LICENSE`). Course content in `skill/source/` belongs to its owners (Skool / Skool Platinum) and is shared for Platinum October cohort members with the admin's permission.
+
+More free Claude Code tools: [charlieautomates.com](https://charlieautomates.com/free-resources/)
